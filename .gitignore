@@ -1,0 +1,26 @@
+# 环境变量文件
+.env
+
+# stats_data 文件夹
+stats_data/
+
+# 日志文件
+*.log
+
+# Node.js 依赖
+node_modules/
+
+# 操作系统生成的文件
+.DS_Store
+Thumbs.db
+
+# 编辑器生成的文件
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# npm 包锁定文件（如果您不想包含它）
+package-lock.json
+
+# 其他您不想包含的文件或文件夹
